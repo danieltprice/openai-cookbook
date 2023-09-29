@@ -4,7 +4,7 @@
 
 ## Vector search
 
-Neon supports vector search using the [pgvector](https://neon.tech/docs/extensions/pgvector) open-source PostgreSQL extension, which enable Postgres as a vector database for storing and querying embeddings.
+Neon supports vector search using the [pgvector](https://neon.tech/docs/extensions/pgvector) open-source PostgreSQL extension, which enables Postgres as a vector database for storing and querying embeddings.
 
 ## OpenAI cookbook notebook
 
@@ -14,10 +14,10 @@ Check out the notebook in this repo for working with Neon Serverless Postgres as
 
 In this notebook you will learn how to:
 
-1. Use embeddings created by OpenAI API
-2. Store embeddings in a Neon Serverless Postgres database
-3. Convert a raw text query to an embedding with OpenAI API
-4. Use Neon with the `pg_vector` extension to perform vector similarity search
+1. Use embeddings created by OpenAI API.
+2. Store embeddings in a Neon Serverless Postgres database.
+3. Convert a raw text query to an embedding with OpenAI API.
+4. Use Neon with the `pgvector` extension to perform vector similarity search.
 
 ## Scaling Support
 
